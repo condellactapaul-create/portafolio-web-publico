@@ -1,0 +1,61 @@
+# Dependencias y artefactos generados
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+__pycache__/
+*.py[cod]
+.cv-preview-*/
+playwright-report/
+test-results/
+
+# Configuración privada y credenciales
+.env
+.env.*
+!.env.example
+*.local
+*.local.*
+credentials*.json
+secrets*.json
+credentials*.yaml
+credentials*.yml
+secrets*.yaml
+secrets*.yml
+.git-credentials
+.netrc
+.npmrc
+id_rsa
+id_ed25519
+*.pem
+*.key
+*.p12
+*.pfx
+.ssh/
+.aws/
+.codex/
+.agents/
+.vscode/
+.idea/
+
+# Archivos temporales, respaldos y metadatos del sistema
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Captura antigua de SIAGIE con datos escolares: no reincorporar
+/assets/img/evidencias/aurora-ines-tejada.jpg
+/assets/img/evidencias/aurora-ines-tejada.png
+/assets/img/evidencias/fiberplus-tv.png
+/assets/img/evidencias/infraestructura-fibra-optica.png
+/assets/img/evidencias/pcondell.png
+
+# PDF privado: no incorporar sin revisión
+/assets/docs/CV_Paul_Pascual_Conde_Llacta.pdf

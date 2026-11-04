@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 290" role="img" aria-labelledby="title desc">
+  <title id="title">Red de fibra óptica ilustrativa</title>
+  <desc id="desc">Diagrama conceptual de tres cajas NAP conectadas a un nodo central y seis terminales. Distribución abstracta sin mapas, coordenadas ni ubicaciones reales.</desc>
+  <style>
+    .device{fill:#131f31;stroke:#73dff2;stroke-width:2}
+    .line{fill:none;stroke:#73dff2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .muted{fill:none;stroke:#b6c5d6;stroke-width:4;stroke-linecap:round}
+    .violet{fill:none;stroke:#beb2f7;stroke-width:3;stroke-linejoin:round}
+    .label{fill:#edf3fb;font:600 17px 'Segoe UI',Arial,sans-serif;text-anchor:middle}
+    .terminal{fill:#1b2b43;stroke:#beb2f7;stroke-width:2}
+  </style>
+  <circle fill="#beb2f7" opacity=".07" cx="280" cy="140" r="128"/>
+  <path class="violet" d="M280 77 V118 M280 118 H122 V145 M280 118 V145 M280 118 H438 V145"/>
+  <path class="line" d="M122 202 V231 H76 V252 M122 231 H168 V252 M280 202 V231 H234 V252 M280 231 H326 V252 M438 202 V231 H392 V252 M438 231 H484 V252"/>
+  <rect class="device" x="238" y="19" width="84" height="58" rx="12"/>
+  <circle fill="#73dff2" cx="260" cy="48" r="5"/>
+  <path class="muted" d="M276 42 H303 M276 55 H295"/>
+  <rect class="device" x="76" y="145" width="92" height="57" rx="10"/>
+  <rect class="device" x="234" y="145" width="92" height="57" rx="10"/>
+  <rect class="device" x="392" y="145" width="92" height="57" rx="10"/>
+  <g class="label"><text x="122" y="169">NAP</text><text x="280" y="169">NAP</text><text x="438" y="169">NAP</text></g>
+  <path class="line" d="M94 186 H100 M110 186 H116 M126 186 H132 M142 186 H148 M252 186 H258 M268 186 H274 M284 186 H290 M300 186 H306 M410 186 H416 M426 186 H432 M442 186 H448 M458 186 H464"/>
+  <g class="terminal"><rect x="61" y="252" width="30" height="22" rx="5"/><rect x="153" y="252" width="30" height="22" rx="5"/><rect x="219" y="252" width="30" height="22" rx="5"/><rect x="311" y="252" width="30" height="22" rx="5"/><rect x="377" y="252" width="30" height="22" rx="5"/><rect x="469" y="252" width="30" height="22" rx="5"/></g>
+</svg>

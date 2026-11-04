@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 290" role="img" aria-labelledby="title desc">
+  <title id="title">Gestión educativa genérica</title>
+  <desc id="desc">Computadora ilustrada con un libro, registros abstractos y marcas de revisión. Sin nombres, matrículas ni datos de estudiantes.</desc>
+  <style>
+    .device{fill:#131f31;stroke:#73dff2;stroke-width:2}.screen{fill:#0b1220}
+    .tile{fill:#1b2b43;stroke:#42576d}.cyan{fill:#73dff2}
+    .line{fill:none;stroke:#73dff2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .muted{fill:none;stroke:#b6c5d6;stroke-width:4;stroke-linecap:round}
+    .violet{fill:none;stroke:#beb2f7;stroke-width:3;stroke-linejoin:round}
+  </style>
+  <circle fill="#beb2f7" opacity=".07" cx="280" cy="140" r="128"/>
+  <rect class="device" x="91" y="24" width="378" height="225" rx="17"/>
+  <rect class="screen" x="105" y="38" width="350" height="191" rx="7"/>
+  <path class="line" d="M254 250 V273 M306 250 V273 M226 275 H334"/>
+  <rect class="tile" x="120" y="53" width="82" height="160" rx="7"/>
+  <path class="violet" d="M133 76 Q147 69 160 78 Q173 69 188 76 V104 Q173 97 160 106 Q147 97 133 104 Z M160 78 V106"/>
+  <path class="muted" d="M136 127 H185 M136 147 H172 M136 167 H185 M136 187 H172"/>
+  <rect class="cyan" x="220" y="58" width="120" height="7" rx="3"/>
+  <rect class="tile" x="220" y="81" width="217" height="132" rx="7"/>
+  <path class="muted" d="M236 101 H312 M236 133 H292 M236 165 H312 M236 196 H292"/>
+  <path class="line" d="M338 97 L344 103 L356 90 M338 129 L344 135 L356 122 M338 161 L344 167 L356 154 M338 193 L344 199 L356 186"/>
+  <path class="violet" d="M382 100 H420 M382 132 H407 M382 164 H420 M382 196 H407"/>
+</svg>

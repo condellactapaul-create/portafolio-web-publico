@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 290" role="img" aria-labelledby="title desc">
+  <title id="title">Televisión con canales ficticios</title>
+  <desc id="desc">Representación conceptual de un televisor con pantalla principal y cuatro tarjetas abstractas de canales. Sin logos ni contenido real.</desc>
+  <style>
+    .device{fill:#131f31;stroke:#73dff2;stroke-width:2}.screen{fill:#0b1220}
+    .tile{fill:#1b2b43;stroke:#42576d}.cyan{fill:#73dff2}
+    .line{fill:none;stroke:#73dff2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+    .muted{fill:none;stroke:#b6c5d6;stroke-width:4;stroke-linecap:round}
+    .violet{fill:none;stroke:#beb2f7;stroke-width:3;stroke-linejoin:round}
+  </style>
+  <circle fill="#beb2f7" opacity=".07" cx="280" cy="140" r="128"/>
+  <rect class="device" x="65" y="24" width="430" height="230" rx="18"/>
+  <rect class="screen" x="80" y="39" width="400" height="195" rx="8"/>
+  <path class="line" d="M240 255 L230 274 H330 L320 255"/>
+  <rect class="cyan" x="99" y="58" width="56" height="7" rx="3"/>
+  <path class="muted" d="M170 62 H218 M235 62 H270"/>
+  <rect class="tile" x="99" y="82" width="229" height="130" rx="9"/>
+  <path class="violet" d="M114 190 L167 129 L207 162 L250 109 L313 188"/>
+  <circle class="cyan" cx="282" cy="111" r="12"/>
+  <circle class="device" cx="211" cy="148" r="25"/>
+  <path class="cyan" d="M204 136 L224 148 L204 160 Z"/>
+  <rect class="tile" x="344" y="82" width="117" height="25" rx="6"/>
+  <rect class="tile" x="344" y="117" width="117" height="25" rx="6"/>
+  <rect class="tile" x="344" y="152" width="117" height="25" rx="6"/>
+  <rect class="tile" x="344" y="187" width="117" height="25" rx="6"/>
+  <path class="line" d="M356 94 H374 M356 129 H374 M356 164 H374 M356 199 H374"/>
+  <path class="muted" d="M388 94 H447 M388 129 H432 M388 164 H447 M388 199 H432"/>
+</svg>
